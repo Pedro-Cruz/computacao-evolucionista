@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pedro/pagmo/code/getting_started.cpp
+cmath
+-
+initializer_list
+-
+iostream
+-
+utility
+-
+bits/stdc++.h
+-
+iostream
+-
+vector
+-
+cstdlib
+-
+random
+-
+time.h
+-
+pagmo/algorithm.hpp
+-
+pagmo/algorithms/sga.hpp
+-
+pagmo/population.hpp
+-
+pagmo/problem.hpp
+-
+pagmo/problems/dtlz.hpp
+-
+pagmo/problem.hpp
+-
+pagmo/types.hpp
+-
+
