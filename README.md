@@ -1,2 +1,5 @@
-# computacao-evolucionista
-## algoritmos para computação evolucionista
+![Artigo CE_00001](https://user-images.githubusercontent.com/44231224/198378187-d0d604f9-7742-4aaa-aab7-ea13a59c491d.svg)
+![Artigo CE_00002](https://user-images.githubusercontent.com/44231224/198378184-8524dd9b-a559-4103-834f-8c4ba325874e.svg)
+![Artigo CE_00003](https://user-images.githubusercontent.com/44231224/198378182-1914ffdf-8132-414c-9938-4961b3e084f9.svg)
+![Artigo CE_00004](https://user-images.githubusercontent.com/44231224/198378180-a4bab909-8e6d-4f69-b10f-10c3212010a2.svg)
+![Artigo CE_00005](https://user-images.githubusercontent.com/44231224/198378175-63f9b393-6720-450f-9e4f-39a7958e7bd7.svg)
